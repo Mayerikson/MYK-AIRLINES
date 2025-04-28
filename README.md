@@ -1,6 +1,6 @@
-# 📦 Supply Chain Analytics - Simulação e Análise de Impacto
+# 📦 Supply Chain Analytics - Análise de Impacto
 
-Este projeto simula e analisa uma base de dados da cadeia de suprimentos no setor aeroespacial, com foco em identificar fatores que afetam custos, prazos e criticidade. A abordagem inclui simulação de dados, análise exploratória, insights estratégicos e sugestões de ações com alto impacto financeiro.
+Este projeto  analisa uma base de dados da cadeia de suprimentos no setor aeroespacial, com foco em identificar fatores que afetam custos, prazos e criticidade. A abordagem inclui simulação de dados, análise exploratória, insights estratégicos e sugestões de ações com alto impacto financeiro.
 
 ## 📊 Objetivo
 
